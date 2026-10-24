@@ -1,4 +1,4 @@
 .venv/
-data
 __pycache__/
+data
 ingredient_llm_cache.json

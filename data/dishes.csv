@@ -1,0 +1,94 @@
+dish_name,primary_ingredient,ingredient_grams_est,reference_price_inr,dish_category,veg_nonveg,cuisines
+Paneer Butter Masala,paneer,150,260,main,veg,north_indian;mughlai
+Kadai Paneer,paneer,150,250,main,veg,north_indian;mughlai
+Palak Paneer,paneer,120,240,main,veg,north_indian
+Shahi Paneer,paneer,150,270,main,veg,north_indian;mughlai
+Matar Paneer,paneer,120,230,main,veg,north_indian
+Paneer Tikka,paneer,200,280,starter,veg,north_indian;mughlai;street_food
+Paneer Bhurji,paneer,150,220,main,veg,north_indian;street_food
+Chilli Paneer,paneer,150,240,starter,veg,indo_chinese
+Paneer Fried Rice,paneer,80,200,rice,veg,indo_chinese
+Paneer Kathi Roll,paneer,80,120,snack,veg,street_food
+Paneer Paratha,paneer,80,90,bread,veg,north_indian;street_food
+Paneer Pakora,paneer,100,140,snack,veg,street_food;north_indian
+Paneer Dosa,paneer,80,130,main,veg,south_indian
+Soya Chaap Masala,soya,200,210,main,veg,north_indian;mughlai
+Malai Soya Chaap,soya,200,230,starter,veg,north_indian;mughlai;street_food
+Tandoori Soya Chaap,soya,200,200,starter,veg,north_indian;street_food
+Soya Chunks Curry,soya,100,150,main,veg,north_indian
+Soya Keema,soya,120,170,main,veg,north_indian
+Chilli Soya,soya,120,170,starter,veg,indo_chinese
+Soya Biryani,soya,100,180,rice,veg,mughlai
+Soya Chaap Roll,soya,120,110,snack,veg,street_food
+Malai Kofta,khoya,60,250,main,veg,north_indian;mughlai
+Khoya Matar,khoya,80,220,main,veg,north_indian
+Gulab Jamun,khoya,60,70,dessert,veg,north_indian;sweets;mughlai;street_food
+Kalakand,khoya,100,90,dessert,veg,sweets
+Khoya Barfi,khoya,100,80,dessert,veg,sweets
+Gajar Halwa,khoya,50,120,dessert,veg,north_indian;sweets
+Peda,khoya,80,70,dessert,veg,sweets
+Ghee Roast Dosa,ghee,25,150,main,veg,south_indian
+Ghee Pongal,ghee,25,120,main,veg,south_indian
+Desi Ghee Paratha,ghee,20,60,bread,veg,north_indian;street_food
+Mysore Pak,ghee,50,90,dessert,veg,sweets;south_indian
+Moong Dal Halwa,ghee,60,140,dessert,veg,north_indian;sweets
+Ghee Rice,ghee,30,160,rice,veg,south_indian
+Dal Bati Churma,ghee,50,220,main,veg,north_indian
+Besan Ladoo,ghee,40,60,dessert,veg,sweets
+Kheer,milk,200,100,dessert,veg,north_indian;sweets;mughlai
+Rasmalai,milk,150,110,dessert,veg,sweets;north_indian
+Rabri,milk,250,120,dessert,veg,sweets;mughlai
+Cold Coffee,milk,200,130,beverage,veg,cafe_beverages;street_food
+Badam Milk,milk,250,80,beverage,veg,cafe_beverages;south_indian;sweets
+Filter Coffee,milk,100,40,beverage,veg,south_indian;cafe_beverages
+Mango Milkshake,milk,200,120,beverage,veg,cafe_beverages
+Sweet Lassi,curd,250,80,beverage,veg,north_indian;cafe_beverages;street_food
+Dahi Vada,curd,120,90,snack,veg,north_indian;street_food
+Curd Rice,curd,150,110,rice,veg,south_indian
+Boondi Raita,curd,120,70,side,veg,north_indian;mughlai
+Butter Chicken,butter,30,320,main,nonveg,north_indian;mughlai
+Pav Bhaji,butter,25,120,snack,veg,street_food
+Butter Naan,butter,10,50,bread,veg,north_indian;mughlai
+Dal Makhani,butter,25,220,main,veg,north_indian
+Chicken 65,red_chilli_powder,8,240,starter,nonveg,south_indian;indo_chinese
+Laal Maas,red_chilli_powder,10,380,main,nonveg,north_indian
+Mirchi Bajji,red_chilli_powder,5,50,snack,veg,street_food;south_indian
+Schezwan Fried Rice,red_chilli_powder,6,180,rice,veg,indo_chinese
+Chilli Chicken,red_chilli_powder,6,260,starter,nonveg,indo_chinese
+Misal Pav,red_chilli_powder,8,90,snack,veg,street_food
+Dal Tadka,turmeric,3,160,main,veg,north_indian
+Sambar,turmeric,3,60,side,veg,south_indian
+Haldi Doodh,turmeric,5,60,beverage,veg,cafe_beverages
+Aloo Gobi,turmeric,3,170,main,veg,north_indian
+Khichdi,turmeric,3,140,main,veg,north_indian;south_indian
+Samosa,edible_oil,30,25,snack,veg,street_food
+Vada Pav,edible_oil,25,30,snack,veg,street_food
+Chole Bhature,edible_oil,40,130,main,veg,north_indian;street_food
+Onion Pakora,edible_oil,40,80,snack,veg,street_food;north_indian
+French Fries,edible_oil,40,110,snack,veg,street_food;cafe_beverages
+Jalebi,edible_oil,40,60,dessert,veg,sweets;street_food
+Medu Vada,edible_oil,30,60,snack,veg,south_indian
+Puri Sabzi,edible_oil,35,80,main,veg,north_indian;street_food
+Kachori,edible_oil,30,30,snack,veg,street_food;sweets
+Honey Chilli Potato,honey,20,200,starter,veg,indo_chinese
+Honey Lemon Tea,honey,15,70,beverage,veg,cafe_beverages
+Honey Chilli Cauliflower,honey,20,210,starter,veg,indo_chinese
+Kesar Kulfi,saffron,0.05,80,dessert,veg,sweets;street_food
+Hyderabadi Dum Biryani,saffron,0.1,300,rice,nonveg,mughlai
+Kesar Pista Shake,saffron,0.05,150,beverage,veg,cafe_beverages
+Zafrani Pulao,saffron,0.1,240,rice,veg,mughlai
+Kesar Peda,saffron,0.03,90,dessert,veg,sweets
+Matar Pulao,green_peas,60,170,rice,veg,north_indian
+Aloo Matar,green_peas,60,160,main,veg,north_indian
+Veg Fried Rice,green_peas,40,170,rice,veg,indo_chinese
+Chicken Biryani,chicken,180,250,rice,nonveg,mughlai;south_indian
+Tandoori Chicken,chicken,300,350,starter,nonveg,north_indian;mughlai
+Chicken Curry,chicken,200,280,main,nonveg,north_indian;south_indian
+Chicken Shawarma,chicken,120,130,snack,nonveg,street_food;mughlai
+Chicken Momos,chicken,80,120,snack,nonveg,indo_chinese;street_food
+Fish Fry,fish,200,300,starter,nonveg,south_indian
+Fish Curry,fish,200,320,main,nonveg,south_indian
+Amritsari Fish,fish,200,320,starter,nonveg,north_indian
+Masala Chai,tea_leaves,3,25,beverage,veg,cafe_beverages;street_food;south_indian
+Cutting Chai,tea_leaves,2,15,beverage,veg,street_food;cafe_beverages
+Iced Tea,tea_leaves,4,90,beverage,veg,cafe_beverages

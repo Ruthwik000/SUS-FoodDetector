@@ -1,0 +1,17 @@
+ingredient,national_base_prevalence,reference_price_per_kg,known_adulterants
+paneer,0.22,380,starch;vanaspati_analogue;detergent;synthetic_milk
+khoya,0.25,420,starch;synthetic_milk_solids;vanaspati
+ghee,0.18,650,vanaspati;animal_body_fat;palm_oil
+milk,0.15,60,water;urea;detergent;starch
+curd,0.1,80,starch;synthetic_milk
+butter,0.12,550,vanaspati;margarine
+soya,0.16,180,maida_filler;artificial_colour;stale_stock
+red_chilli_powder,0.14,300,brick_powder;sudan_dye;sawdust
+turmeric,0.12,220,metanil_yellow;lead_chromate;chalk_powder
+edible_oil,0.14,150,argemone_oil;reused_oil_high_tpc;mineral_oil
+honey,0.3,500,sugar_syrup;jaggery_syrup
+saffron,0.35,250000,dyed_corn_silk;safflower
+green_peas,0.08,120,malachite_green
+chicken,0.06,240,formalin;water_injection;stale_meat
+fish,0.1,350,formalin;ammonia
+tea_leaves,0.12,400,used_tea_leaves;coal_tar_dye

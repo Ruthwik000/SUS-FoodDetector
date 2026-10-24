@@ -1,0 +1,121 @@
+location_id,city,state,city_tier,area_type,cost_of_living_index,enforcement_intensity,avg_income_index,population_density_k_per_km2,num_restaurants,overall_sample_fail_rate_12m,total_seizures_12m,known_hotspot_ingredients
+L001,Delhi,Delhi,1,residential_suburb,1.213,1.327,0.96,14.4,39,0.2163,31,milk;paneer;saffron
+L002,Delhi,Delhi,1,highway_stretch,1.198,1.046,1.034,10.0,32,0.3029,34,milk;saffron
+L003,Delhi,Delhi,1,it_corridor,1.226,1.002,1.132,13.0,89,0.2406,20,milk;paneer;saffron
+L004,Delhi,Delhi,1,university_area,1.07,1.158,1.316,9.3,90,0.2873,35,milk;saffron
+L005,Delhi,Delhi,1,railway_station_area,1.211,1.288,0.813,32.5,91,0.3013,48,paneer;saffron
+L006,Mumbai,Maharashtra,1,highway_stretch,1.379,0.833,1.121,3.6,70,0.247,24,saffron;turmeric
+L007,Mumbai,Maharashtra,1,upscale_commercial,1.235,1.0,1.177,18.6,80,0.1259,17,fish;turmeric
+L008,Mumbai,Maharashtra,1,it_corridor,1.23,0.805,1.193,30.9,88,0.1667,11,saffron;turmeric
+L009,Mumbai,Maharashtra,1,old_city_market,1.385,0.968,1.04,28.2,117,0.2477,28,fish;saffron;turmeric
+L010,Mumbai,Maharashtra,1,railway_station_area,1.233,1.32,0.962,26.2,54,0.3056,35,fish;turmeric
+L011,Bengaluru,Karnataka,1,upscale_commercial,1.193,0.857,1.407,9.9,53,0.1345,12,red_chilli_powder
+L012,Bengaluru,Karnataka,1,railway_station_area,1.205,1.167,0.988,26.7,59,0.2696,29,red_chilli_powder
+L013,Bengaluru,Karnataka,1,industrial_belt,1.201,0.792,1.279,8.0,43,0.2661,20,milk
+L014,Bengaluru,Karnataka,1,it_corridor,1.258,0.988,1.14,5.5,85,0.1448,16,milk;red_chilli_powder
+L015,Bengaluru,Karnataka,1,highway_stretch,1.201,1.12,1.193,19.6,60,0.2408,24,milk;red_chilli_powder
+L016,Hyderabad,Telangana,1,it_corridor,1.027,0.717,0.968,18.8,66,0.1082,11,curd;soya
+L017,Hyderabad,Telangana,1,university_area,1.09,1.11,1.059,28.5,49,0.2117,19,soya
+L018,Hyderabad,Telangana,1,industrial_belt,1.142,0.738,0.884,9.5,47,0.2347,17,curd;soya
+L019,Hyderabad,Telangana,1,upscale_commercial,1.153,0.981,1.106,19.4,60,0.1701,17,curd;soya
+L020,Hyderabad,Telangana,1,residential_suburb,1.141,0.712,1.219,14.3,63,0.218,15,curd;soya
+L021,Chennai,Tamil Nadu,1,it_corridor,1.103,0.829,1.019,29.0,41,0.1034,12,chicken;edible_oil
+L022,Chennai,Tamil Nadu,1,upscale_commercial,1.033,1.079,1.302,8.4,59,0.1485,10,
+L023,Chennai,Tamil Nadu,1,university_area,1.042,0.974,1.08,25.6,97,0.2094,17,chicken
+L024,Chennai,Tamil Nadu,1,industrial_belt,1.093,1.38,1.092,26.9,67,0.1634,21,chicken;green_peas
+L025,Chennai,Tamil Nadu,1,old_city_market,1.125,0.829,0.989,37.8,109,0.207,22,chicken;edible_oil;green_peas
+L026,Kolkata,West Bengal,1,railway_station_area,0.953,0.917,1.001,32.1,77,0.305,19,chicken;red_chilli_powder
+L027,Kolkata,West Bengal,1,residential_suburb,0.987,0.7,1.061,19.3,86,0.1773,5,
+L028,Kolkata,West Bengal,1,old_city_market,1.011,0.694,1.088,39.4,62,0.2473,8,
+L029,Kolkata,West Bengal,1,upscale_commercial,1.06,0.727,0.923,23.8,66,0.1238,16,chicken;red_chilli_powder
+L030,Kolkata,West Bengal,1,it_corridor,0.966,1.043,1.177,26.3,72,0.1799,18,chicken;red_chilli_powder
+L031,Pune,Maharashtra,2,old_city_market,1.1,1.149,1.032,36.0,64,0.2128,24,khoya;soya
+L032,Pune,Maharashtra,2,residential_suburb,1.021,0.776,1.05,11.1,48,0.1858,10,khoya
+L033,Pune,Maharashtra,2,university_area,1.023,1.021,0.913,31.7,60,0.2291,12,soya
+L034,Pune,Maharashtra,2,it_corridor,1.084,1.299,1.065,4.5,51,0.185,23,khoya
+L035,Pune,Maharashtra,2,upscale_commercial,1.046,1.278,1.352,15.2,71,0.126,13,khoya;soya
+L036,Ahmedabad,Gujarat,2,railway_station_area,0.964,0.777,0.793,7.2,44,0.2691,20,curd;milk;red_chilli_powder
+L037,Ahmedabad,Gujarat,2,industrial_belt,1.042,0.844,1.021,14.4,61,0.3286,18,curd
+L038,Ahmedabad,Gujarat,2,highway_stretch,0.98,1.001,0.896,15.3,53,0.2784,26,curd;red_chilli_powder
+L039,Ahmedabad,Gujarat,2,it_corridor,0.997,0.744,0.962,16.3,52,0.1918,12,curd;red_chilli_powder
+L040,Ahmedabad,Gujarat,2,old_city_market,0.974,1.168,0.943,16.5,97,0.2066,35,curd;milk
+L041,Jaipur,Rajasthan,2,upscale_commercial,0.926,1.031,1.191,24.1,61,0.1211,13,soya
+L042,Jaipur,Rajasthan,2,railway_station_area,0.969,0.958,0.711,11.7,48,0.2561,28,soya
+L043,Jaipur,Rajasthan,2,it_corridor,1.01,1.022,0.872,33.9,76,0.1458,17,soya
+L044,Jaipur,Rajasthan,2,old_city_market,0.926,0.757,0.979,16.3,108,0.242,13,soya
+L045,Jaipur,Rajasthan,2,university_area,0.89,0.885,0.967,15.7,69,0.2766,19,
+L046,Lucknow,Uttar Pradesh,2,highway_stretch,0.915,0.881,0.813,9.1,36,0.2898,35,chicken;khoya
+L047,Lucknow,Uttar Pradesh,2,it_corridor,0.895,1.024,0.951,21.9,82,0.1864,20,chicken;khoya
+L048,Lucknow,Uttar Pradesh,2,old_city_market,0.838,0.659,0.868,17.4,60,0.3369,14,chicken;khoya
+L049,Lucknow,Uttar Pradesh,2,railway_station_area,0.876,1.032,0.806,15.0,116,0.2842,32,khoya
+L050,Lucknow,Uttar Pradesh,2,industrial_belt,0.931,0.86,0.924,11.9,75,0.2596,24,
+L051,Kanpur,Uttar Pradesh,2,university_area,0.819,0.872,0.645,21.8,78,0.2428,18,
+L052,Kanpur,Uttar Pradesh,2,railway_station_area,0.893,0.643,0.786,34.6,92,0.322,23,honey
+L053,Kanpur,Uttar Pradesh,2,upscale_commercial,0.795,0.772,0.814,3.9,80,0.1674,10,honey
+L054,Kanpur,Uttar Pradesh,2,highway_stretch,0.909,0.7,0.817,23.3,57,0.3081,19,honey
+L055,Kanpur,Uttar Pradesh,2,old_city_market,0.909,0.601,0.586,16.1,55,0.2597,13,honey
+L056,Indore,Madhya Pradesh,2,old_city_market,0.904,1.011,0.651,27.6,103,0.2407,24,green_peas;red_chilli_powder
+L057,Indore,Madhya Pradesh,2,upscale_commercial,0.943,1.207,0.963,6.4,51,0.0981,18,red_chilli_powder
+L058,Indore,Madhya Pradesh,2,railway_station_area,0.85,1.344,0.794,30.7,118,0.2805,35,green_peas
+L059,Indore,Madhya Pradesh,2,highway_stretch,0.862,0.885,0.73,11.2,42,0.2463,21,green_peas
+L060,Indore,Madhya Pradesh,2,it_corridor,0.933,1.359,0.992,25.9,61,0.1538,25,red_chilli_powder
+L061,Bhopal,Madhya Pradesh,2,railway_station_area,0.875,0.774,0.775,27.6,104,0.2249,21,
+L062,Bhopal,Madhya Pradesh,2,upscale_commercial,0.898,0.828,1.13,4.1,59,0.1842,15,milk
+L063,Bhopal,Madhya Pradesh,2,university_area,0.857,0.716,0.918,28.5,71,0.1956,13,
+L064,Bhopal,Madhya Pradesh,2,old_city_market,0.872,0.816,0.66,15.9,62,0.2335,19,
+L065,Bhopal,Madhya Pradesh,2,highway_stretch,0.93,1.076,0.615,19.5,40,0.2886,30,milk
+L066,Patna,Bihar,2,railway_station_area,0.856,0.617,0.779,7.4,92,0.3316,22,fish
+L067,Patna,Bihar,2,it_corridor,0.802,0.441,0.95,22.2,44,0.186,13,fish
+L068,Patna,Bihar,2,university_area,0.801,0.778,0.665,7.5,54,0.2731,12,fish
+L069,Patna,Bihar,2,old_city_market,0.768,0.704,0.744,36.8,106,0.3251,27,fish;green_peas;red_chilli_powder
+L070,Patna,Bihar,2,upscale_commercial,0.78,0.697,1.09,14.4,46,0.1552,15,fish;green_peas;red_chilli_powder
+L071,Chandigarh,Chandigarh,2,highway_stretch,1.048,1.086,0.915,20.7,36,0.228,23,chicken
+L072,Chandigarh,Chandigarh,2,university_area,1.035,1.338,1.139,18.6,100,0.1829,24,chicken
+L073,Chandigarh,Chandigarh,2,old_city_market,1.002,1.257,0.863,13.5,61,0.1906,30,chicken
+L074,Chandigarh,Chandigarh,2,industrial_belt,1.016,0.852,1.125,20.6,57,0.2519,20,chicken
+L075,Chandigarh,Chandigarh,2,it_corridor,1.042,1.293,1.276,14.7,65,0.1099,12,
+L076,Ludhiana,Punjab,2,old_city_market,0.918,0.599,0.907,35.4,100,0.2584,11,
+L077,Ludhiana,Punjab,2,upscale_commercial,0.927,0.667,1.033,22.1,40,0.1572,8,
+L078,Ludhiana,Punjab,2,university_area,0.951,0.983,0.959,13.9,57,0.2303,34,
+L079,Ludhiana,Punjab,2,industrial_belt,0.956,0.592,0.941,14.1,59,0.25,11,red_chilli_powder
+L080,Ludhiana,Punjab,2,highway_stretch,0.994,0.669,0.898,11.4,42,0.2593,22,red_chilli_powder
+L081,Agra,Uttar Pradesh,3,industrial_belt,0.794,0.859,0.787,21.8,56,0.2659,24,soya
+L082,Agra,Uttar Pradesh,3,highway_stretch,0.86,0.651,0.654,23.7,44,0.3495,25,edible_oil;paneer;soya
+L083,Agra,Uttar Pradesh,3,railway_station_area,0.905,0.795,0.642,25.0,79,0.3556,33,edible_oil;paneer;soya
+L084,Agra,Uttar Pradesh,3,it_corridor,0.826,0.71,0.955,31.1,86,0.2,19,edible_oil;paneer;soya
+L085,Agra,Uttar Pradesh,3,residential_suburb,0.817,0.707,0.872,7.7,81,0.2661,16,paneer;soya
+L086,Varanasi,Uttar Pradesh,3,upscale_commercial,0.796,0.593,0.776,13.1,59,0.1833,13,milk;red_chilli_powder
+L087,Varanasi,Uttar Pradesh,3,industrial_belt,0.773,0.55,0.576,12.9,56,0.3155,15,ghee;milk;red_chilli_powder
+L088,Varanasi,Uttar Pradesh,3,old_city_market,0.843,0.595,0.852,24.6,126,0.3147,20,milk;red_chilli_powder
+L089,Varanasi,Uttar Pradesh,3,railway_station_area,0.87,0.529,0.826,35.8,48,0.3234,8,milk;red_chilli_powder
+L090,Varanasi,Uttar Pradesh,3,residential_suburb,0.768,0.669,0.832,23.8,45,0.2657,18,
+L091,Nagpur,Maharashtra,2,upscale_commercial,0.962,0.671,1.018,18.0,76,0.162,6,saffron
+L092,Nagpur,Maharashtra,2,railway_station_area,0.892,0.906,0.622,5.8,66,0.2907,19,milk;saffron;turmeric
+L093,Nagpur,Maharashtra,2,old_city_market,0.862,1.068,0.91,41.1,81,0.2982,35,milk;saffron;turmeric
+L094,Nagpur,Maharashtra,2,industrial_belt,0.875,0.763,0.711,5.9,61,0.2983,22,milk;saffron;turmeric
+L095,Nagpur,Maharashtra,2,it_corridor,0.954,0.807,0.925,29.1,54,0.1673,18,milk;saffron;turmeric
+L096,Surat,Gujarat,2,railway_station_area,1.011,0.976,0.955,26.6,73,0.233,26,khoya
+L097,Surat,Gujarat,2,highway_stretch,0.953,0.771,0.968,8.8,38,0.2731,19,
+L098,Surat,Gujarat,2,industrial_belt,1.01,1.055,0.944,4.8,81,0.2179,26,khoya
+L099,Surat,Gujarat,2,residential_suburb,1.004,0.665,0.793,29.8,58,0.163,12,khoya
+L100,Surat,Gujarat,2,it_corridor,0.974,0.859,1.124,19.2,93,0.1794,13,khoya
+L101,Kochi,Kerala,2,upscale_commercial,1.042,1.242,1.131,28.9,70,0.1326,11,soya
+L102,Kochi,Kerala,2,it_corridor,1.043,0.892,1.232,8.9,66,0.1036,10,red_chilli_powder
+L103,Kochi,Kerala,2,industrial_belt,0.989,1.165,1.068,5.4,46,0.1773,23,soya
+L104,Kochi,Kerala,2,residential_suburb,0.958,1.516,0.926,16.4,63,0.1755,28,soya
+L105,Kochi,Kerala,2,highway_stretch,1.046,1.007,1.016,4.3,31,0.2185,28,red_chilli_powder;soya
+L106,Visakhapatnam,Andhra Pradesh,2,old_city_market,0.95,1.016,0.971,12.7,85,0.2997,30,honey;paneer
+L107,Visakhapatnam,Andhra Pradesh,2,railway_station_area,0.865,0.724,0.696,13.9,70,0.3026,19,
+L108,Visakhapatnam,Andhra Pradesh,2,university_area,0.903,0.991,0.791,5.3,83,0.1824,21,honey;paneer
+L109,Visakhapatnam,Andhra Pradesh,2,it_corridor,0.916,1.11,1.107,6.6,53,0.163,27,paneer
+L110,Visakhapatnam,Andhra Pradesh,2,upscale_commercial,0.901,0.793,1.191,28.3,52,0.1521,14,paneer
+L111,Guwahati,Assam,2,university_area,0.872,0.878,0.676,6.4,49,0.1896,19,honey
+L112,Guwahati,Assam,2,it_corridor,0.938,0.704,0.998,21.1,59,0.201,12,honey
+L113,Guwahati,Assam,2,railway_station_area,0.93,0.863,0.829,16.2,75,0.284,24,honey
+L114,Guwahati,Assam,2,upscale_commercial,0.915,0.554,1.158,7.0,55,0.1366,7,honey
+L115,Guwahati,Assam,2,industrial_belt,0.957,0.545,0.909,3.2,43,0.2083,11,honey
+L116,Bhubaneswar,Odisha,2,old_city_market,0.874,0.952,0.608,35.9,103,0.2162,26,paneer
+L117,Bhubaneswar,Odisha,2,industrial_belt,0.827,0.791,0.883,14.7,30,0.2448,30,milk;paneer
+L118,Bhubaneswar,Odisha,2,upscale_commercial,0.909,0.925,1.01,10.6,51,0.1174,16,milk;paneer
+L119,Bhubaneswar,Odisha,2,residential_suburb,0.895,0.898,0.798,12.9,52,0.2417,20,milk;saffron
+L120,Bhubaneswar,Odisha,2,university_area,0.854,0.61,0.794,28.9,68,0.256,18,saffron
